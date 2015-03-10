@@ -9,6 +9,7 @@ public class Demo {
 		System.out.println("My First Git Clone through Egit plugin from C:\\utils\\work\\mywork" );
 		System.out.println("want to chk for merge conflicts" +"update done in github");
 		System.out.println("new line added" + "adding new change");
+		System.out.println("trying merge");
 	}
 
 }
