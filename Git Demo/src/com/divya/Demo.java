@@ -10,6 +10,7 @@ public class Demo {
 		System.out.println("want to chk for merge conflicts" +"update done in github");
 		System.out.println("new line added" + "adding new change");
 		System.out.println("trying merge");
+		System.out.println("trying use merge option");
 	}
 
 }
