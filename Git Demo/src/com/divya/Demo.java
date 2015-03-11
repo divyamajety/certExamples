@@ -14,8 +14,8 @@ public class Demo {
 		display();		
 	}
 	
-	private static void display() {
-		System.out.println("display method");
+	private static String display() {
+		return "display";
 	}
 
 }
